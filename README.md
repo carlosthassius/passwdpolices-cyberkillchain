@@ -8,6 +8,16 @@ The results showed that simple and predictable passwords are easily cracked, whi
 
 This work underscores the importance of robust security policies, frequent updates, and awareness of best protection practices.
 
+## Technologies Used
+- **Python**
+- **Shell Script**
+- **Virtualization**
+- **Kali Linux**
+- **Windows**
+- **Metasploit Framework**
+- **John the Ripper**
+- **Ransomware**
+
 
 
 
