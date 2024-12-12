@@ -1,4 +1,4 @@
-# Password Analysis and Vulnerability Exploitation in Windows Systems
+# Password Analysis and Vulnerability Exploitation in Windows Systems 🛡️🔒
 
 This study addresses two crucial aspects of digital security: password analysis and the exploitation of vulnerabilities in Windows systems. The work investigated the cracking of passwords for PDF files using the John the Ripper tool, evaluating the time required for cracking based on parameters such as size, alphabet type, and other factors.
 
@@ -8,7 +8,7 @@ The results showed that simple and predictable passwords are easily cracked, whi
 
 This work underscores the importance of robust security policies, frequent updates, and awareness of best protection practices.
 
-## Technologies Used
+## Technologies Used 🧑‍💻
 - **Python**
 - **Shell Script**
 - **Virtualization**
